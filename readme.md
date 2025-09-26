@@ -63,10 +63,6 @@ brew install sdl2
 - Eat food to grow and increase your score.
 - Avoid hitting the walls or yourself.
 
-## Screenshots
-
-_(Add screenshots here if available)_
-
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for more information.
