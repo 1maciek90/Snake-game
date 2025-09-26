@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+*.vcxproj.*
+*.vcxproj
+*.sln
+
+# Build results
+Debug/
+Release/
+x64/
